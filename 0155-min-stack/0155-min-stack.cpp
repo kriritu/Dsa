@@ -12,7 +12,7 @@ public:
             st.push(value);
         }
         else{
-            if(value > mini) st.push(value);
+            if(value >= mini) st.push(value);
             else{
                 long long pushelement = 2LL *value - mini;
                 st.push(pushelement);
