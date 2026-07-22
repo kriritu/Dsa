@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/kriritu/Dsa/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/kriritu/Dsa/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/kriritu/Dsa/tree/master/0024-swap-nodes-in-pairs) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/kriritu/Dsa/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0148-sort-list](https://github.com/kriritu/Dsa/tree/master/0148-sort-list) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/kriritu/Dsa/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/kriritu/Dsa/tree/master/0148-sort-list) |
 ## Sorting
 |  |
@@ -48,5 +50,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/kriritu/Dsa/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/kriritu/Dsa/tree/master/0148-sort-list) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/kriritu/Dsa/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
