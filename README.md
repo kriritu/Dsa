@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kriritu/Dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0238-product-of-array-except-self](https://github.com/kriritu/Dsa/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/kriritu/Dsa/tree/master/0560-subarray-sum-equals-k) |
+| [0682-baseball-game](https://github.com/kriritu/Dsa/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/kriritu/Dsa/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/kriritu/Dsa/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/kriritu/Dsa/tree/master/2104-sum-of-subarray-ranges) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/kriritu/Dsa/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/kriritu/Dsa/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/kriritu/Dsa/tree/master/0155-min-stack) |
+| [0682-baseball-game](https://github.com/kriritu/Dsa/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/kriritu/Dsa/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/kriritu/Dsa/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/kriritu/Dsa/tree/master/2104-sum-of-subarray-ranges) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/kriritu/Dsa/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/kriritu/Dsa/tree/master/0735-asteroid-collision) |
 ## Range Minimum/Maximum Query
 |  |
