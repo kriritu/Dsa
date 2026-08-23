@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/kriritu/Dsa/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0143-reorder-list](https://github.com/kriritu/Dsa/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/kriritu/Dsa/tree/master/0148-sort-list) |
+| [0344-reverse-string](https://github.com/kriritu/Dsa/tree/master/0344-reverse-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -116,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/kriritu/Dsa/tree/master/0085-maximal-rectangle) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/kriritu/Dsa/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
