@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/kriritu/Dsa/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/kriritu/Dsa/tree/master/0085-maximal-rectangle) |
 | [0143-reorder-list](https://github.com/kriritu/Dsa/tree/master/0143-reorder-list) |
+| [0145-binary-tree-postorder-traversal](https://github.com/kriritu/Dsa/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/kriritu/Dsa/tree/master/0155-min-stack) |
 | [0402-remove-k-digits](https://github.com/kriritu/Dsa/tree/master/0402-remove-k-digits) |
 | [0445-add-two-numbers-ii](https://github.com/kriritu/Dsa/tree/master/0445-add-two-numbers-ii) |
@@ -130,4 +131,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/kriritu/Dsa/tree/master/0402-remove-k-digits) |
+## Tree
+|  |
+| ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/kriritu/Dsa/tree/master/0145-binary-tree-postorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/kriritu/Dsa/tree/master/0145-binary-tree-postorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/kriritu/Dsa/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
