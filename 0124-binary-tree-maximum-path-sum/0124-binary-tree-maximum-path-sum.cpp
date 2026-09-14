@@ -24,7 +24,7 @@ public:
     }
     int maxPathSum(TreeNode* root) {
         
-        int maxi = INT_MIN;
+        int maxi = INT_MIN; // TO AVOID NEG SINGLE ROOT, CANN'T INITIALISE ZERO
         helper(root, maxi);
         return maxi;
     }
