@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kriritu/Dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/kriritu/Dsa/tree/master/0136-single-number) |
 | [0238-product-of-array-except-self](https://github.com/kriritu/Dsa/tree/master/0238-product-of-array-except-self) |
+| [0287-find-the-duplicate-number](https://github.com/kriritu/Dsa/tree/master/0287-find-the-duplicate-number) |
 | [0560-subarray-sum-equals-k](https://github.com/kriritu/Dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0682-baseball-game](https://github.com/kriritu/Dsa/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/kriritu/Dsa/tree/master/0735-asteroid-collision) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/kriritu/Dsa/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0143-reorder-list](https://github.com/kriritu/Dsa/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/kriritu/Dsa/tree/master/0148-sort-list) |
+| [0287-find-the-duplicate-number](https://github.com/kriritu/Dsa/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/kriritu/Dsa/tree/master/0344-reverse-string) |
 ## Divide and Conquer
 |  |
@@ -180,9 +182,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/kriritu/Dsa/tree/master/0136-single-number) |
+| [0287-find-the-duplicate-number](https://github.com/kriritu/Dsa/tree/master/0287-find-the-duplicate-number) |
 ## DP on Trees
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/kriritu/Dsa/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/kriritu/Dsa/tree/master/0543-diameter-of-binary-tree) |
+## Binary Search
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/kriritu/Dsa/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/kriritu/Dsa/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/kriritu/Dsa/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
