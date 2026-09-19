@@ -5,13 +5,9 @@ public:
         unordered_map<int, int> mp;
         for(int n : nums){
             mp[n]++;
+            if(mp[n] >1) return n;
         }
-        for(auto& pair: mp){
-            if(pair.second >1){
-                ans = pair.first;
-                break;
-            }
-        }
-        return ans;
+        return -1;
+       
     }
 };
