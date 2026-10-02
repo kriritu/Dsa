@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/kriritu/Dsa/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/kriritu/Dsa/tree/master/0907-sum-of-subarray-minimums) |
 | [1266-minimum-time-visiting-all-points](https://github.com/kriritu/Dsa/tree/master/1266-minimum-time-visiting-all-points) |
+| [1535-find-the-winner-of-an-array-game](https://github.com/kriritu/Dsa/tree/master/1535-find-the-winner-of-an-array-game) |
 | [2104-sum-of-subarray-ranges](https://github.com/kriritu/Dsa/tree/master/2104-sum-of-subarray-ranges) |
 | [2498-frog-jump-ii](https://github.com/kriritu/Dsa/tree/master/2498-frog-jump-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/kriritu/Dsa/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0682-baseball-game](https://github.com/kriritu/Dsa/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/kriritu/Dsa/tree/master/0735-asteroid-collision) |
+| [1535-find-the-winner-of-an-array-game](https://github.com/kriritu/Dsa/tree/master/1535-find-the-winner-of-an-array-game) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
