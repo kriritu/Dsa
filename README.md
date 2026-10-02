@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/kriritu/Dsa/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/kriritu/Dsa/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/kriritu/Dsa/tree/master/2104-sum-of-subarray-ranges) |
+| [2498-frog-jump-ii](https://github.com/kriritu/Dsa/tree/master/2498-frog-jump-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/kriritu/Dsa/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Hash Table
 |  |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/kriritu/Dsa/tree/master/0402-remove-k-digits) |
+| [2498-frog-jump-ii](https://github.com/kriritu/Dsa/tree/master/2498-frog-jump-ii) |
 ## Tree
 |  |
 | ------- |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/kriritu/Dsa/tree/master/0287-find-the-duplicate-number) |
+| [2498-frog-jump-ii](https://github.com/kriritu/Dsa/tree/master/2498-frog-jump-ii) |
 ## Pigeonhole Principle
 |  |
 | ------- |
