@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/kriritu/Dsa/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/kriritu/Dsa/tree/master/0907-sum-of-subarray-minimums) |
 | [1266-minimum-time-visiting-all-points](https://github.com/kriritu/Dsa/tree/master/1266-minimum-time-visiting-all-points) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/kriritu/Dsa/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1535-find-the-winner-of-an-array-game](https://github.com/kriritu/Dsa/tree/master/1535-find-the-winner-of-an-array-game) |
 | [2104-sum-of-subarray-ranges](https://github.com/kriritu/Dsa/tree/master/2104-sum-of-subarray-ranges) |
 | [2498-frog-jump-ii](https://github.com/kriritu/Dsa/tree/master/2498-frog-jump-ii) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/kriritu/Dsa/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/kriritu/Dsa/tree/master/0560-subarray-sum-equals-k) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/kriritu/Dsa/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Linked List
 |  |
 | ------- |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/kriritu/Dsa/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/kriritu/Dsa/tree/master/0213-house-robber-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/kriritu/Dsa/tree/master/0907-sum-of-subarray-minimums) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/kriritu/Dsa/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -140,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/kriritu/Dsa/tree/master/0070-climbing-stairs) |
 | [0445-add-two-numbers-ii](https://github.com/kriritu/Dsa/tree/master/0445-add-two-numbers-ii) |
 | [1266-minimum-time-visiting-all-points](https://github.com/kriritu/Dsa/tree/master/1266-minimum-time-visiting-all-points) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/kriritu/Dsa/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Matrix
 |  |
 | ------- |
