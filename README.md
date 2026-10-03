@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/kriritu/Dsa/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/kriritu/Dsa/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/kriritu/Dsa/tree/master/0907-sum-of-subarray-minimums) |
+| [1222-queens-that-can-attack-the-king](https://github.com/kriritu/Dsa/tree/master/1222-queens-that-can-attack-the-king) |
 | [1266-minimum-time-visiting-all-points](https://github.com/kriritu/Dsa/tree/master/1266-minimum-time-visiting-all-points) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/kriritu/Dsa/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1535-find-the-winner-of-an-array-game](https://github.com/kriritu/Dsa/tree/master/1535-find-the-winner-of-an-array-game) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0682-baseball-game](https://github.com/kriritu/Dsa/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/kriritu/Dsa/tree/master/0735-asteroid-collision) |
+| [1222-queens-that-can-attack-the-king](https://github.com/kriritu/Dsa/tree/master/1222-queens-that-can-attack-the-king) |
 | [1535-find-the-winner-of-an-array-game](https://github.com/kriritu/Dsa/tree/master/1535-find-the-winner-of-an-array-game) |
 ## Range Minimum/Maximum Query
 |  |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/kriritu/Dsa/tree/master/0085-maximal-rectangle) |
+| [1222-queens-that-can-attack-the-king](https://github.com/kriritu/Dsa/tree/master/1222-queens-that-can-attack-the-king) |
 ## String
 |  |
 | ------- |
