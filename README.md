@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1266-minimum-time-visiting-all-points](https://github.com/kriritu/Dsa/tree/master/1266-minimum-time-visiting-all-points) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/kriritu/Dsa/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1535-find-the-winner-of-an-array-game](https://github.com/kriritu/Dsa/tree/master/1535-find-the-winner-of-an-array-game) |
+| [1642-furthest-building-you-can-reach](https://github.com/kriritu/Dsa/tree/master/1642-furthest-building-you-can-reach) |
 | [2104-sum-of-subarray-ranges](https://github.com/kriritu/Dsa/tree/master/2104-sum-of-subarray-ranges) |
 | [2498-frog-jump-ii](https://github.com/kriritu/Dsa/tree/master/2498-frog-jump-ii) |
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/kriritu/Dsa/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/kriritu/Dsa/tree/master/0023-merge-k-sorted-lists) |
+| [1642-furthest-building-you-can-reach](https://github.com/kriritu/Dsa/tree/master/1642-furthest-building-you-can-reach) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/kriritu/Dsa/tree/master/0402-remove-k-digits) |
+| [1642-furthest-building-you-can-reach](https://github.com/kriritu/Dsa/tree/master/1642-furthest-building-you-can-reach) |
 | [2498-frog-jump-ii](https://github.com/kriritu/Dsa/tree/master/2498-frog-jump-ii) |
 ## Tree
 |  |
