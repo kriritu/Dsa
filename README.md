@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/kriritu/Dsa/tree/master/0070-climbing-stairs) |
 | [0445-add-two-numbers-ii](https://github.com/kriritu/Dsa/tree/master/0445-add-two-numbers-ii) |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/kriritu/Dsa/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [1266-minimum-time-visiting-all-points](https://github.com/kriritu/Dsa/tree/master/1266-minimum-time-visiting-all-points) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/kriritu/Dsa/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Matrix
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/kriritu/Dsa/tree/master/0287-find-the-duplicate-number) |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/kriritu/Dsa/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [2498-frog-jump-ii](https://github.com/kriritu/Dsa/tree/master/2498-frog-jump-ii) |
 ## Pigeonhole Principle
 |  |
