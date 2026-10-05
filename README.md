@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/kriritu/Dsa/tree/master/0213-house-robber-ii) |
 | [0238-product-of-array-except-self](https://github.com/kriritu/Dsa/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/kriritu/Dsa/tree/master/0287-find-the-duplicate-number) |
+| [0406-queue-reconstruction-by-height](https://github.com/kriritu/Dsa/tree/master/0406-queue-reconstruction-by-height) |
 | [0560-subarray-sum-equals-k](https://github.com/kriritu/Dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0682-baseball-game](https://github.com/kriritu/Dsa/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/kriritu/Dsa/tree/master/0735-asteroid-collision) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/kriritu/Dsa/tree/master/0148-sort-list) |
+| [0406-queue-reconstruction-by-height](https://github.com/kriritu/Dsa/tree/master/0406-queue-reconstruction-by-height) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/kriritu/Dsa/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Merge Sort
 |  |
@@ -300,4 +302,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kriritu/Dsa/tree/master/0003-longest-substring-without-repeating-characters) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0406-queue-reconstruction-by-height](https://github.com/kriritu/Dsa/tree/master/0406-queue-reconstruction-by-height) |
+## Segment Tree
+|  |
+| ------- |
+| [0406-queue-reconstruction-by-height](https://github.com/kriritu/Dsa/tree/master/0406-queue-reconstruction-by-height) |
 <!---LeetCode Topics End-->
