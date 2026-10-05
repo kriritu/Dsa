@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/kriritu/Dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kriritu/Dsa/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/kriritu/Dsa/tree/master/0138-copy-list-with-random-pointer) |
+| [0146-lru-cache](https://github.com/kriritu/Dsa/tree/master/0146-lru-cache) |
 | [0560-subarray-sum-equals-k](https://github.com/kriritu/Dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/kriritu/Dsa/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/kriritu/Dsa/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/kriritu/Dsa/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/kriritu/Dsa/tree/master/0138-copy-list-with-random-pointer) |
 | [0143-reorder-list](https://github.com/kriritu/Dsa/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/kriritu/Dsa/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/kriritu/Dsa/tree/master/0148-sort-list) |
 | [0445-add-two-numbers-ii](https://github.com/kriritu/Dsa/tree/master/0445-add-two-numbers-ii) |
 ## Stack
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/kriritu/Dsa/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/kriritu/Dsa/tree/master/0155-min-stack) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/kriritu/Dsa/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Recursion
@@ -310,4 +313,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0406-queue-reconstruction-by-height](https://github.com/kriritu/Dsa/tree/master/0406-queue-reconstruction-by-height) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/kriritu/Dsa/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
