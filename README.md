@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2498-frog-jump-ii](https://github.com/kriritu/Dsa/tree/master/2498-frog-jump-ii) |
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/kriritu/Dsa/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
 | [2874-maximum-value-of-an-ordered-triplet-ii](https://github.com/kriritu/Dsa/tree/master/2874-maximum-value-of-an-ordered-triplet-ii) |
+| [2942-find-words-containing-character](https://github.com/kriritu/Dsa/tree/master/2942-find-words-containing-character) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/kriritu/Dsa/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Hash Table
 |  |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/kriritu/Dsa/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0344-reverse-string](https://github.com/kriritu/Dsa/tree/master/0344-reverse-string) |
 | [0402-remove-k-digits](https://github.com/kriritu/Dsa/tree/master/0402-remove-k-digits) |
+| [2942-find-words-containing-character](https://github.com/kriritu/Dsa/tree/master/2942-find-words-containing-character) |
 ## Greedy
 |  |
 | ------- |
