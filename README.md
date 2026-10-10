@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/kriritu/Dsa/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [1266-minimum-time-visiting-all-points](https://github.com/kriritu/Dsa/tree/master/1266-minimum-time-visiting-all-points) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/kriritu/Dsa/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [2235-add-two-integers](https://github.com/kriritu/Dsa/tree/master/2235-add-two-integers) |
 | [2427-number-of-common-factors](https://github.com/kriritu/Dsa/tree/master/2427-number-of-common-factors) |
 | [2469-convert-the-temperature](https://github.com/kriritu/Dsa/tree/master/2469-convert-the-temperature) |
 ## Matrix
