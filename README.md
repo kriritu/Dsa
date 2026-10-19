@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kriritu/Dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/kriritu/Dsa/tree/master/0136-single-number) |
 | [0198-house-robber](https://github.com/kriritu/Dsa/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/kriritu/Dsa/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/kriritu/Dsa/tree/master/0213-house-robber-ii) |
 | [0238-product-of-array-except-self](https://github.com/kriritu/Dsa/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/kriritu/Dsa/tree/master/0287-find-the-duplicate-number) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/kriritu/Dsa/tree/master/0037-sudoku-solver) |
 | [0085-maximal-rectangle](https://github.com/kriritu/Dsa/tree/master/0085-maximal-rectangle) |
+| [0200-number-of-islands](https://github.com/kriritu/Dsa/tree/master/0200-number-of-islands) |
 | [1222-queens-that-can-attack-the-king](https://github.com/kriritu/Dsa/tree/master/1222-queens-that-can-attack-the-king) |
 ## String
 |  |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/kriritu/Dsa/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kriritu/Dsa/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/kriritu/Dsa/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/kriritu/Dsa/tree/master/0200-number-of-islands) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kriritu/Dsa/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/kriritu/Dsa/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/kriritu/Dsa/tree/master/0404-sum-of-left-leaves) |
@@ -268,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/kriritu/Dsa/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/kriritu/Dsa/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/kriritu/Dsa/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/kriritu/Dsa/tree/master/0200-number-of-islands) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/kriritu/Dsa/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/kriritu/Dsa/tree/master/0404-sum-of-left-leaves) |
 | [0547-number-of-provinces](https://github.com/kriritu/Dsa/tree/master/0547-number-of-provinces) |
@@ -370,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/kriritu/Dsa/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/kriritu/Dsa/tree/master/0547-number-of-provinces) |
 ## Graph Theory
 |  |
