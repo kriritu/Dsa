@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/kriritu/Dsa/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/kriritu/Dsa/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/kriritu/Dsa/tree/master/0907-sum-of-subarray-minimums) |
+| [0994-rotting-oranges](https://github.com/kriritu/Dsa/tree/master/0994-rotting-oranges) |
 | [1222-queens-that-can-attack-the-king](https://github.com/kriritu/Dsa/tree/master/1222-queens-that-can-attack-the-king) |
 | [1266-minimum-time-visiting-all-points](https://github.com/kriritu/Dsa/tree/master/1266-minimum-time-visiting-all-points) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/kriritu/Dsa/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/kriritu/Dsa/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/kriritu/Dsa/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/kriritu/Dsa/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/kriritu/Dsa/tree/master/0994-rotting-oranges) |
 | [1222-queens-that-can-attack-the-king](https://github.com/kriritu/Dsa/tree/master/1222-queens-that-can-attack-the-king) |
 ## String
 |  |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/kriritu/Dsa/tree/master/0733-flood-fill) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/kriritu/Dsa/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/kriritu/Dsa/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [0994-rotting-oranges](https://github.com/kriritu/Dsa/tree/master/0994-rotting-oranges) |
 ## Bit Manipulation
 |  |
 | ------- |
