@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/kriritu/Dsa/tree/master/0070-climbing-stairs) |
+| [0292-nim-game](https://github.com/kriritu/Dsa/tree/master/0292-nim-game) |
 | [0445-add-two-numbers-ii](https://github.com/kriritu/Dsa/tree/master/0445-add-two-numbers-ii) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/kriritu/Dsa/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [1266-minimum-time-visiting-all-points](https://github.com/kriritu/Dsa/tree/master/1266-minimum-time-visiting-all-points) |
@@ -388,4 +389,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/kriritu/Dsa/tree/master/0547-number-of-provinces) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/kriritu/Dsa/tree/master/0292-nim-game) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/kriritu/Dsa/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/kriritu/Dsa/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/kriritu/Dsa/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/kriritu/Dsa/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
