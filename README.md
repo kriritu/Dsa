@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/kriritu/Dsa/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1535-find-the-winner-of-an-array-game](https://github.com/kriritu/Dsa/tree/master/1535-find-the-winner-of-an-array-game) |
 | [1642-furthest-building-you-can-reach](https://github.com/kriritu/Dsa/tree/master/1642-furthest-building-you-can-reach) |
+| [1920-build-array-from-permutation](https://github.com/kriritu/Dsa/tree/master/1920-build-array-from-permutation) |
 | [2104-sum-of-subarray-ranges](https://github.com/kriritu/Dsa/tree/master/2104-sum-of-subarray-ranges) |
 | [2498-frog-jump-ii](https://github.com/kriritu/Dsa/tree/master/2498-frog-jump-ii) |
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/kriritu/Dsa/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/kriritu/Dsa/tree/master/0735-asteroid-collision) |
 | [1222-queens-that-can-attack-the-king](https://github.com/kriritu/Dsa/tree/master/1222-queens-that-can-attack-the-king) |
 | [1535-find-the-winner-of-an-array-game](https://github.com/kriritu/Dsa/tree/master/1535-find-the-winner-of-an-array-game) |
+| [1920-build-array-from-permutation](https://github.com/kriritu/Dsa/tree/master/1920-build-array-from-permutation) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
