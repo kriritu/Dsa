@@ -6,10 +6,10 @@ public:
             return k;
         }
         int prefixsum = 0;
-        int left =0;
         int count = 0;
         unordered_map <int, int> freq;
         freq[0] = 1;
+        freq.reserve(nums.size());
 
         for(int i= 0; i< nums.size(); i++){
             prefixsum += nums[i];
